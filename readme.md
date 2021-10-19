@@ -1,6 +1,6 @@
 # Urban Cipher - Deconstruct your favorite song lyrics
 
-### Project 1:
+### Description:
 
 Is your favorite song just a string of words you've memorized, but whose meaning eludes you? Have you said 'Yeet' with a straight face, but with shame in your heart? Do you mumble through the verses until the chorus arrives? We've got you covered. With our app you can deepen your lyrical knowledge by using our dictionary functions to look up any word.
 
@@ -9,6 +9,9 @@ Start by entering the artist you are looking for. Our app will generate that art
 - [View deployed project here](https://maximosandoval.github.io/urban-cipher/)
 
 - [View presentation slides here](https://docs.google.com/presentation/d/1PNjSxtizisa_sOnnzYcdY_tymPh249pRPdNc1uHs8w0/edit#slide=id.gd5b15f0a3_5_26)
+
+### User Story:
+As a user I want to search for a song by an artist. Once I find that song I want to be able to see all the lyrics to the song. If I want to know more about a word in the song I want to be able to look it up in the dictionary. As a user I want to see several different meaning of the word so I want to use webster dictionary as well as urban dictionary. 
 
 ### Criteria:
 
@@ -24,6 +27,13 @@ With a team, you will conceive and execute a design that solves a real-world pro
 - Have a polished UI.
 - Have a clean repository that meets quality coding standards (file structure, naming conventions, follows best practices for class/id naming conventions, indentation, quality comments, etc.).
 - Have a quality README (with unique name, description, technologies used, screenshot, and link to deployed application).
+
+## Install
+
+Clone repository: 
+- https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
+Once you have cloned the repository simply open the project in a web browser and run. 
+
 
 ### Built With:
 
