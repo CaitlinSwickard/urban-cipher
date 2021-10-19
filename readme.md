@@ -1,6 +1,6 @@
 # Urban Cipher - Deconstruct your favorite song lyrics
 
-### Description:
+## Description:
 
 Is your favorite song just a string of words you've memorized, but whose meaning eludes you? Have you said 'Yeet' with a straight face, but with shame in your heart? Do you mumble through the verses until the chorus arrives? We've got you covered. With our app you can deepen your lyrical knowledge by using our dictionary functions to look up any word.
 
@@ -10,10 +10,10 @@ Start by entering the artist you are looking for. Our app will generate that art
 
 - [View presentation slides here](https://docs.google.com/presentation/d/1PNjSxtizisa_sOnnzYcdY_tymPh249pRPdNc1uHs8w0/edit#slide=id.gd5b15f0a3_5_26)
 
-### User Story:
+## User Story:
 As a user I want to search for a song by an artist. Once I find that song I want to be able to see all the lyrics to the song. If I want to know more about a word in the song I want to be able to look it up in the dictionary. As a user I want to see several different meaning of the word so I want to use webster dictionary as well as urban dictionary. 
 
-### Criteria:
+## Criteria:
 
 With a team, you will conceive and execute a design that solves a real-world problem by integrating data received from multiple server-side API requests. You will implement feature and bug fixes using git branch workflow and pull requests. The user story and acceptance criteria will depend on the project that you create, but your project must fulfil the following requirements:
 
